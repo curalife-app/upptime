@@ -7,6 +7,8 @@ sites:
     url: https://www.curalife.com
   - name: Curalife Global
     url: https://global.curalife.com
+  - name: Curalife Pro
+    url: https://professionals.curalife.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
