@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 399,
-    "timeWeek": 466,
-    "timeMonth": 463,
-    "timeYear": 465,
+    "time": 461,
+    "timeDay": 304,
+    "timeWeek": 456,
+    "timeMonth": 460,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/global.curalife.com.ico",
     "slug": "curalife-global",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 352,
-    "timeDay": 318,
-    "timeWeek": 334,
-    "timeMonth": 352,
-    "timeYear": 352,
-    "dailyMinutesDown": {
-      "2023-07-16": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 353,
+    "timeDay": 313,
+    "timeWeek": 335,
+    "timeMonth": 351,
+    "timeYear": 353,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Curalife Pro",
@@ -44,17 +42,15 @@
     "slug": "curalife-pro",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 166,
-    "timeWeek": 180,
-    "timeMonth": 188,
+    "timeDay": 137,
+    "timeWeek": 172,
+    "timeMonth": 186,
     "timeYear": 183,
-    "dailyMinutesDown": {
-      "2023-07-16": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
