@@ -22,18 +22,20 @@
     "url": "https://global.curalife.com",
     "icon": "https://icons.duckduckgo.com/ip3/global.curalife.com.ico",
     "slug": "curalife-global",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 275,
-    "timeWeek": 396,
-    "timeMonth": 372,
-    "timeYear": 364,
-    "dailyMinutesDown": {}
+    "time": 409,
+    "timeDay": 1833,
+    "timeWeek": 771,
+    "timeMonth": 463,
+    "timeYear": 409,
+    "dailyMinutesDown": {
+      "2023-08-12": 0
+    }
   },
   {
     "name": "Curalife Pro",
