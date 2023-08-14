@@ -4,18 +4,20 @@
     "url": "https://www.curalife.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.curalife.com.ico",
     "slug": "curalife",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 468,
-    "timeWeek": 364,
-    "timeMonth": 401,
-    "timeYear": 436,
-    "dailyMinutesDown": {}
+    "time": 432,
+    "timeDay": 333,
+    "timeWeek": 343,
+    "timeMonth": 395,
+    "timeYear": 432,
+    "dailyMinutesDown": {
+      "2023-08-14": 0
+    }
   },
   {
     "name": "Curalife Global",
